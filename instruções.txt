@@ -1,5 +1,6 @@
 ---------django-----------
 starta a plicação -> python manage.py runserver 
+cria um novo app -> python manage.py startapp nomedoapp
 
 ---------banco de dados-----------
 cria uma migração a partir do modelo -> python manage.py makemigrations
